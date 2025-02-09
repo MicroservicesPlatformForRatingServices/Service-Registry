@@ -1,0 +1,8 @@
+server:
+  port: 8766
+eureka:
+  instance:
+    host: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
